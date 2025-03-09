@@ -1,6 +1,8 @@
 # Hi, I'm CH1CK3N 👋
 
 📜 **Java**
+🔤 **TOEIC 870**
 
+🔨 **Currently working project: GenshinThirdPerson**
 ✨ **Minecraft mod/plugin developer**  
-💖 **Love computer coding related things**  
+💖 **Love coding related things**  
