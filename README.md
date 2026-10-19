@@ -2,6 +2,3 @@
 
 📜 **Java**  
 🔤 **TOEIC 870**  
-
-✨ **Minecraft mod/plugin developer**  
-💖 **Love coding related things**  
